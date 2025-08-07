@@ -332,7 +332,7 @@
     "address": "1/132-134 Burwood Rd, Burwood NSW 2134",
     "lat": -33.8754666,
     "lng": 151.1043122,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -626,7 +626,7 @@
     "address": "22 Dartmouth Street, WEST CROYDON, SA 5008",
     "lat": -34.889131,
     "lng": 138.5671429,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -990,7 +990,7 @@
     "address": "41 Cary Street, Marrickville NSW 2204",
     "lat": -33.9182291,
     "lng": 151.1507405,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -1340,7 +1340,7 @@
     "address": "1/-5 Barranbali Street, Chevron Island QLD 4217",
     "lat": -27.9972122,
     "lng": 153.4197076,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -1438,7 +1438,7 @@
     "address": "Suite 27, 174 Barry Parade, Fortitude Valley QLD 4006",
     "lat": -27.4584298,
     "lng": 153.0308194,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -2726,7 +2726,7 @@
     "address": "71 Ocean View Drive, Bermagui NSW 2546",
     "lat": -36.43732079999999,
     "lng": 150.0626305,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -4196,7 +4196,7 @@
     "address": "31/15 Vitko Street, Woodridge QLD 4144",
     "lat": -27.6217226,
     "lng": 153.1029345,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -4994,7 +4994,7 @@
     "address": "Office, 2 Weir Drive, Upper Coomera QLD 4209",
     "lat": -27.8677861,
     "lng": 153.3059883,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -6058,7 +6058,7 @@
     "address": "284 High Street, Melton VIC 3337",
     "lat": -37.682772,
     "lng": 144.584226,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -6156,7 +6156,7 @@
     "address": "SHOP 1 2A MARK STREET LIDCOMBE NSW 2141",
     "lat": -33.8646364,
     "lng": 151.0457097,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -6772,7 +6772,7 @@
     "address": "1302 Wynnum Road, Tingalpa QLD 4173 ",
     "lat": -27.4720314,
     "lng": 153.1114928,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -7024,7 +7024,7 @@
     "address": "66 Goulburn Street, Sydney NSW 2000",
     "lat": -33.8779053,
     "lng": 151.2081605,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -8144,7 +8144,7 @@
     "address": "35 Jabiru Place, Bellbowrie QLD 4070",
     "lat": -27.5590505,
     "lng": 152.8697594,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   },
   {
@@ -8620,7 +8620,7 @@
     "address": "405/2 PARK ST NORTH, Wentworth Point, NSW 2127",
     "lat": -33.8243147,
     "lng": 151.0777786,
-    "record_id_company": NaN,
+    "record_id_company": null,
     "company_name": null
   }
 ]
