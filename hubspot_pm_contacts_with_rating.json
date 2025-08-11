@@ -28,6 +28,20 @@
     "company_name": "Capital Group"
   },
   {
+    "record_id_contact": 92789925174,
+    "first_name": "Sophia",
+    "last_name": "Papalia",
+    "email": "sophia@xceedre.com.au",
+    "phone": "+61892072088",
+    "pm_rating": "Gold",
+    "agencyName": "Xceed Real Estate Herdsman",
+    "address": "3 Hasler Road, Herdsman, WA 6017",
+    "lat": -31.926395,
+    "lng": 115.809009,
+    "record_id_company": 6614199366,
+    "company_name": "Xceed Real Estate"
+  },
+  {
     "record_id_contact": 4884301,
     "first_name": "Bronwyn",
     "last_name": "Werleman",
